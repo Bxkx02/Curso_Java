@@ -1,0 +1,1 @@
+ada_Record entrada3 = n
